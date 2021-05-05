@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">BS Jogja</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="daftar_bs">
+        <item>--Pilih Bank Sampah--</item>
+        <item>Bank Sampah Mondoroko</item>
+        <item>Bank Sampah Barokah</item>
+        <item>Bank Sampah Tuhutentrem</item>
+        <item>Bank Sampah Reresik</item>
+        <item>Bank Sampah Blazent</item>
+        <item>Bank Sampah Damai Bersatu</item>
+    </string-array>
+    <string-array name="daftar_har1">
+        <item>--Est Sampah Plastik (Kg/Bulan)--</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="daftar_har2">
+        <item>--Est Sampah Besi (Kg/Bulan)--</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="daftar_per">
+        <item>--Pilih Periode/Bulan--</item>
+        <item>6</item>
+        <item>12</item>
+        <item>24</item>
+
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
